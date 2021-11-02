@@ -1,4 +1,5 @@
-This repository is for archiving only
+The original author deleted the repository and this repository is used for backup storage only.
+Link to original repository: https://github.com/ClashDotNetFramework/experimental-clash
 
 <h1 align="center">
   <img src="https://i.loli.net/2021/05/03/TP8A1BnZjUfQmqE.png" alt="Experimental-Clash" width="200">
